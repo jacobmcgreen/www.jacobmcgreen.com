@@ -1,7 +1,7 @@
 export default [
    {
       title: 'Connect 4 AI',
-      imgUrl: '/assets/connect-4.png',
+      imgUrl: '/assets/1_IyyCmHRYJpVhkU7SWyuF5Q.png',
       stack: ['Python'],
       link: 'https://github.com/jacobmcgreen/Connect4AI',
    },
