@@ -1,20 +1,27 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      title: 'Connect 4 AI',
+      imgUrl: '/assets/connect-4-png.png',
+      stack: ['Python'],
+      link: 'https://github.com/jacobmcgreen/Connect4AI',
    },
    {
       title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      imgUrl: '/assets/python.png',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: '',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      title: 'StreetMapping',
+      imgUrl: '/assets/nys.jpg',
+      stack: ['Java'],
+      link: 'https://github.com/jacobmcgreen/StreetMapping',
+   },
+   
+   {
+      title: 'GymMate+ (DandyHacks2023)',
+      imgUrl: '',
+      stack: ['JavaScript','HTML','CSS'],
+      link: 'https://jacobmcgreen.github.io/DandyHacks23/',
    },
 ]
