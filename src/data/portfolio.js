@@ -20,7 +20,7 @@ export default [
    
    {
       title: 'GymMate+ (DandyHacks2023)',
-      imgUrl: '',
+      imgUrl: '/assets/image_2024-01-20_184707849.png',
       stack: ['JavaScript','HTML','CSS'],
       link: 'https://jacobmcgreen.github.io/DandyHacks23/',
    },
