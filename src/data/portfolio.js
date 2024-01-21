@@ -5,12 +5,12 @@ export default [
       stack: ['Python'],
       link: 'https://github.com/jacobmcgreen/Connect4AI',
    },
-   {
+ /*  {
       title: 'Developer Portfolio',
       imgUrl: '/assets/python.png',
       stack: ['React', 'Tailwind', 'Vite'],
       link: '',
-   },
+   }, */
    {
       title: 'StreetMapping',
       imgUrl: '/assets/nys.jpg',
