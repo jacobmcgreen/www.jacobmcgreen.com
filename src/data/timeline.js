@@ -11,7 +11,7 @@ export default [
 		title: 'Graduated and Accepted Into University',
 		duration: '4 years',
 		details:
-			'I graduated high school and moved across the country to pursue my dream of being a doctor, I quickly realized that that was not the path for me and I swapped my degree to Computer Science.',
+			'I graduated high school and moved across the country to pursue my education.',
 	},
 	{
 		year: '2019',
