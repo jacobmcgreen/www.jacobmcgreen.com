@@ -6,6 +6,12 @@ export default [
       link: 'https://github.com/jacobmcgreen/Connect4AI',
    },
    {
+      title:'ShopUnicycle.com',
+      imgUrl: '/assets/unicycle.png',
+      stack: ['Typescript', 'MongoDB'],
+      link: 'shopuincycle.com;',
+   },
+   {
       title: 'Developer Portfolio',
       imgUrl: '/assets/image_2024-01-21_160045007.png',
       stack: ['React', 'Tailwind', 'Vite'],
