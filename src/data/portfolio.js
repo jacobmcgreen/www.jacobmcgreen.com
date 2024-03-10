@@ -9,7 +9,7 @@ export default [
       title:'ShopUnicycle.com',
       imgUrl: '/assets/unicycle.png',
       stack: ['Typescript', 'MongoDB'],
-      link: 'shopuincycle.com;',
+      link: 'shopunicycle.com;',
    },
    {
       title: 'Developer Portfolio',
