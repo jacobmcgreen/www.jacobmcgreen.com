@@ -9,7 +9,19 @@ export default [
       title:'ShopUnicycle.com',
       imgUrl: '/assets/unicycle.png',
       stack: ['Typescript', 'MongoDB'],
-      link: 'shopunicycle.com;',
+      link: 'https://shopunicycle.com/',
+   },
+   {
+      title: 'GymMate+ (DandyHacks2023)',
+      imgUrl: '/assets/image_2024-01-20_184707849.png',
+      stack: ['JavaScript','HTML','CSS'],
+      link: 'https://jacobmcgreen.github.io/DandyHacks23/',
+   },
+   {
+      title: 'Finnov8',
+      imgUrl: '/assets/finnov8.png',
+      stack: ['Python'],
+      link: 'https://github.com/jacobmcgreen/Finnov8-2024'
    },
    {
       title: 'Developer Portfolio',
@@ -17,17 +29,6 @@ export default [
       stack: ['React', 'Tailwind', 'Vite'],
       link: '',
    }, 
-   {
-      title: 'StreetMapping',
-      imgUrl: '/assets/nys.jpg',
-      stack: ['Java'],
-      link: 'https://github.com/jacobmcgreen/StreetMapping',
-   },
    
-   {
-      title: 'GymMate+ (DandyHacks2023)',
-      imgUrl: '/assets/image_2024-01-20_184707849.png',
-      stack: ['JavaScript','HTML','CSS'],
-      link: 'https://jacobmcgreen.github.io/DandyHacks23/',
-   },
+   
 ]
