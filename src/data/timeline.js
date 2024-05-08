@@ -6,9 +6,9 @@ export default [
 		details:
 			"I'm a 3rd year Computer Science Student building software for myself and for classes. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
 	},
-	{
+	// {
 
-	},
+	// },
 	{
 		year: '2022',
 		title: 'Graduated and Accepted Into University',
