@@ -29,9 +29,9 @@ export default [
    },
    {
       title: 'Developer Portfolio',
-      description:'My Skills',
+      description:'A developer portfolio that showcases my skills and projects. It was bult using React and Tailwindj',
       imgUrl: '/assets/image_2024-01-21_160045007.png',
-      stack: ['Python', 'C', 'C++', 'C#', 'React', 'Java', 'Javascript', 'TypeScript', 'HTML', 'Tailwind', 'CSS', 'MongoDB'],
+      stack: [ 'React', 'HTML', 'Tailwind'],
       link: '',
    }, 
    

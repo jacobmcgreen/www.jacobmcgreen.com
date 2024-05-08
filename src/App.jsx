@@ -34,7 +34,7 @@ function App() {
 			fill="none"
 			viewBox="0 0 24 24"
 			strokeWidth={1.5}
-			stroke="currentColor"
+			stroke="black"
 			className="w-6 h-6"
 		>
 			<path
@@ -67,7 +67,7 @@ function App() {
 		<button
 			type="button"
 			onClick={handleThemeSwitch}
-			className="fixed p-2 z-10 right-20 top-4 bg-violet-300 dark:bg-orange-300 text-lg p-1 rounded-md"
+			className="fixed p-2 z-10 right-20 top-4 bg-stone-900 dark:bg-white text-lg p-1 rounded-md"
 		>
 			{theme === 'dark' ? sun : moon}
 		</button>

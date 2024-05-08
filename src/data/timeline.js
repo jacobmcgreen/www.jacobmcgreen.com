@@ -2,9 +2,12 @@ export default [
    {
 		year: 'Today',
 		title: 'Student',
-		duration: '2 years',
+		duration: '3 years',
 		details:
-			"I'm a Computer Science Student building software for myself and for classes. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
+			"I'm a 3rd year Computer Science Student building software for myself and for classes. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
+	},
+	{
+
 	},
 	{
 		year: '2022',
@@ -18,6 +21,6 @@ export default [
 		title: 'First Line of Code',
 		duration: 'the beginning',
 		details:
-			"I wrote my first line code, granted it was Scratch.com.",
+			"I wrote my first line code.",
 	},
 ]
