@@ -11,7 +11,7 @@ export default [
 	//},
 	{
 		year: '2024',
-		Title: 'RocLab',
+		title: 'RocLab',
 		duration: 'February 2024 to Present Day',
 		details:'Actively working on Unicycle, a place where students can sell unwanted items to other students, utilizing Typescript and MongoDB Unicycle uses Google-Auth, AWS, and Prisma for the Database'
 	},
