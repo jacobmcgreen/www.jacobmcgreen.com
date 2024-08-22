@@ -5,8 +5,8 @@ function Intro() {
       <div>
          <div className="flex items-center justify-center flex-col text-center pt-20 pb-0">
             <h1 className="text-4xl md:text-7xl font-bold dark:text-white mb-1 md:mb-3">Jacob McGreen</h1>
-            <p className="text-base md:text-xl mb-3 font-medium">Computer Science Student and Aspiring AI Engineer</p>
-            <p className="text-sm max-w-xl mb-6 font-bold">Sophomore at the University of Rochester</p>
+            <p className="text-base md:text-xl mb-3 font-medium">Computer Science Student and Aspiring Software and AI Engineer</p>
+            <p className="text-sm max-w-xl mb-6 font-bold">Junior at the University of Rochester</p>
          </div>
          <div className="container mx-auto flex justify-center items-center pb-5">
             <div className="w-1/3">
