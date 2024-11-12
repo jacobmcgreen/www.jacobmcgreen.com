@@ -41,6 +41,15 @@ function Intro() {
                </a>
             </div>
          </div>
+         <div className="container mx-auto flex justify-center items-center pb-8">
+         <a
+               href="/assets/Jacob McGreen Resume.docx FINAL.pdf"
+               download
+               className="mt-4 bg-gray-600 hover:bg-gray-400 text-white font-bold py-2 px-4 rounded-full"
+            >
+               Download My Resume
+            </a>
+         </div>
       </div>
    );
 }
